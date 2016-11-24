@@ -1,0 +1,20 @@
+{
+"speakers": [
+    {
+        "name" : "Yonatan Levin",
+        "description" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field. Yonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts. His primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)",
+        "photo" : "http://devfest.by/assets/img/Yonatan_Levin.jpg"
+    },
+    {
+        "name" : "Tomáš Kypta",
+        "description" : "Tomas is an Android developer at Avast. He’s focusing on designing the architecture of Android applications, libraries and SDKs as well as pushing good coding and testing practices.",
+        "photo" : "http://devfest.by/assets/img/tomas_kypta.jpg"
+    },
+    {
+        "name" : "Sergey Kibish",
+        "description" : "Sergey is a Software Developer at Transact Pro (Fintech company) and GDG Riga (Latvia) Co-organiser. Pretending for a Master degree in Computer Science. Can't sit still and don’t do something for a long time. Love different technology and make useful things with it. When there is a spare time - plays piano or drums. Don’t be afraid to ask questions.",
+        "photo" : "http://devfest.by/assets/img/Sergey_Kibish.jpg"
+    }
+
+]
+}
